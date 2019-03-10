@@ -2,7 +2,7 @@
 layout: post
 title:  "Background of DI(Dependency Injection)"
 date:   2018-11-25 22:00:00 +0900
-categories: jekyll update
+categories: Framework
 ---
 ### (참고) [Dependency란?](http://www.nextree.co.kr/p6753/) 
 
