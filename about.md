@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
-
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
-
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+글을 작성하는 일은 쉽다. 매체가 발달하면서 정보를 접할 수 있는 경로도 많아졌으며 그 양 또한 엄청나게 증가하였다.
+단순히 어디에서도 찾을 수 있는 정보를 갖다 나르는 일이 아닌, 내 생각과 insight가 담긴 글을 쓰고싶다.
+- 2019. 03
